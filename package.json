@@ -1,6 +1,6 @@
 {
-    "name": "postcss-bem",
-    "version": "0.3.0",
+    "name": "fs-bem",
+    "version": "0.0.2",
     "description": "PostCSS plugin implementing BEM as at-rules, upgrade for postcss 6.0.9",
     "keywords": ["postcss", "css", "postcss-plugin", "bem"],
     "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
