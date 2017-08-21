@@ -1,13 +1,13 @@
 {
     "name": "postcss-bem",
     "version": "0.3.0",
-    "description": "PostCSS plugin implementing BEM as at-rules",
+    "description": "PostCSS plugin implementing BEM as at-rules, upgrade for postcss 6.0.9",
     "keywords": ["postcss", "css", "postcss-plugin", "bem"],
     "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url":  "https://github.com/ileri/postcss-bem.git"
+        "url":  "https://github.com/JunreyCen/fs-bem.git"
     },
     "dependencies": {
         "postcss": "^6.0.9"
